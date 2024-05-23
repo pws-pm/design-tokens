@@ -1,0 +1,909 @@
+@font-face {
+  font-family: 'fds-icons';
+  src:  url('fonts/fds-icons.eot?2k6uzg');
+  src:  url('fonts/fds-icons.eot?2k6uzg#iefix') format('embedded-opentype'),
+    url('fonts/fds-icons.ttf?2k6uzg') format('truetype'),
+    url('fonts/fds-icons.woff?2k6uzg') format('woff'),
+    url('fonts/fds-icons.svg?2k6uzg#fds-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="glyphs"], [class*=" glyphs"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fds-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.glyphsarrow-towards-mobile-32-fill:before {
+  content: "\e900";
+}
+.glyphsarrow-towards-mobile-32-duotone .path1:before {
+  content: "\e901";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsarrow-towards-mobile-32-duotone .path2:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsarrow-towards-mobile-32-duotone .path3:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsarrow-towards-mobile-32-line:before {
+  content: "\e904";
+}
+.glyphscalendar-blank-32-duotone .path1:before {
+  content: "\e905";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphscalendar-blank-32-duotone .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphscalendar-blank-32-fill:before {
+  content: "\e907";
+}
+.glyphscalendar-blank-32-regular:before {
+  content: "\e908";
+}
+.glyphsbox-arrow-corner-24-duotone .path1:before {
+  content: "\e909";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsbox-arrow-corner-24-duotone .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsbox-arrow-corner-24-fill:before {
+  content: "\e90b";
+}
+.glyphsbox-arrow-corner-24-line:before {
+  content: "\e90c";
+}
+.glyphsbox-arrow-corner-32-duotone .path1:before {
+  content: "\e90d";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsbox-arrow-corner-32-duotone .path2:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsbox-arrow-corner-32-fill:before {
+  content: "\e90f";
+}
+.glyphsbox-arrow-corner-32-line:before {
+  content: "\e910";
+}
+.glyphsstorefront-32-duotone .path1:before {
+  content: "\e911";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsstorefront-32-duotone .path2:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsstorefront-32-fill:before {
+  content: "\e913";
+}
+.glyphsstorefront-32-line:before {
+  content: "\e914";
+}
+.glyphshome-24-duotone .path1:before {
+  content: "\e915";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphshome-24-duotone .path2:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphshome-24-line:before {
+  content: "\e917";
+}
+.glyphshome-24-fill:before {
+  content: "\e918";
+}
+.glyphspen-drive-duotone .path1:before {
+  content: "\e919";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphspen-drive-duotone .path2:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphspen-drive-duotone .path3:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphspen-drive-duotone .path4:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphspen-drive-fill:before {
+  content: "\e91d";
+}
+.glyphspen-drive-line:before {
+  content: "\e91e";
+}
+.glyphssubtract-24:before {
+  content: "\e91f";
+}
+.glyphsnfc:before {
+  content: "\e920";
+}
+.glyphsgear-24-duotone .path1:before {
+  content: "\e921";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsgear-24-duotone .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsgear-24-duotone .path3:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsgear-24-fill:before {
+  content: "\e924";
+}
+.glyphsgear-24-regular:before {
+  content: "\e925";
+}
+.glyphsgear-32-duotone .path1:before {
+  content: "\e926";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsgear-32-duotone .path2:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsgear-32-fill:before {
+  content: "\e928";
+}
+.glyphsgear-32-regular:before {
+  content: "\e929";
+}
+.glyphsarrow-towards-mobile-24-duotone .path1:before {
+  content: "\e92a";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsarrow-towards-mobile-24-duotone .path2:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsarrow-towards-mobile-24-fill:before {
+  content: "\e92c";
+}
+.glyphsarrow-towards-mobile-24-line:before {
+  content: "\e92d";
+}
+.glyphschevron-32-right-fill:before {
+  content: "\e92e";
+}
+.glyphschevron-32-left-fill:before {
+  content: "\e92f";
+}
+.glyphschevron-32-up-fill:before {
+  content: "\e930";
+}
+.glyphschevron-32-down-fill:before {
+  content: "\e931";
+}
+.glyphschevron-32-right-default:before {
+  content: "\e932";
+}
+.glyphschevron-32-left-default:before {
+  content: "\e933";
+}
+.glyphschevron-32-up-default:before {
+  content: "\e934";
+}
+.glyphschevron-32-down-default:before {
+  content: "\e935";
+}
+.glyphsunica:before {
+  content: "\e936";
+}
+.glyphsmedal-32-duotone .path1:before {
+  content: "\e937";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsmedal-32-duotone .path2:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsmedal-32-fill:before {
+  content: "\e939";
+}
+.glyphsmedal-32-line:before {
+  content: "\e93a";
+}
+.glyphsamplifiers-24-duotone .path1:before {
+  content: "\e93b";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsamplifiers-24-duotone .path2:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsamplifiers-24-duotone .path3:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsamplifiers-24-duotone .path4:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsamplifiers-24-duotone .path5:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsamplifiers-24-duotone .path6:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsamplifiers-24-duotone .path7:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsamplifiers-24-duotone .path8:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsamplifiers-24-fill:before {
+  content: "\e943";
+}
+.glyphsamplifiers-24-line:before {
+  content: "\e944";
+}
+.glyphscertificate-24-duotone .path1:before {
+  content: "\e945";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphscertificate-24-duotone .path2:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphscertificate-24-fill:before {
+  content: "\e947";
+}
+.glyphscertificate-24-line:before {
+  content: "\e948";
+}
+.glyphsreceipt-24-duotone .path1:before {
+  content: "\e949";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsreceipt-24-duotone .path2:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsreceipt-24-fill:before {
+  content: "\e94b";
+}
+.glyphsreceipt-24-line:before {
+  content: "\e94c";
+}
+.glyphsreceipt-32-duotone .path1:before {
+  content: "\e94d";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsreceipt-32-duotone .path2:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsreceipt-32-fill:before {
+  content: "\e94f";
+}
+.glyphsreceipt-32-line:before {
+  content: "\e950";
+}
+.glyphschart-line-24-duotone .path1:before {
+  content: "\e951";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphschart-line-24-duotone .path2:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphschart-line-24-fill:before {
+  content: "\e953";
+}
+.glyphschart-line-24-line:before {
+  content: "\e954";
+}
+.glyphschart-line-32-duotone .path1:before {
+  content: "\e955";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphschart-line-32-duotone .path2:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphschart-line-32-fill:before {
+  content: "\e957";
+}
+.glyphschart-line-32-line:before {
+  content: "\e958";
+}
+.glyphsplaceholder-32:before {
+  content: "\e959";
+}
+.glyphsusers-three-24-duotone .path1:before {
+  content: "\e95a";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsusers-three-24-duotone .path2:before {
+  content: "\e95b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsusers-three-24-duotone .path3:before {
+  content: "\e95c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsusers-three-24-duotone .path4:before {
+  content: "\e95d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsusers-three-24-duotone .path5:before {
+  content: "\e95e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsusers-three-24-duotone .path6:before {
+  content: "\e95f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsusers-three-24-fill:before {
+  content: "\e960";
+}
+.glyphsusers-three-24-line:before {
+  content: "\e961";
+}
+.glyphsuser-32-weight4 .path1:before {
+  content: "\e962";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsuser-32-weight4 .path2:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsuser-32-fill:before {
+  content: "\e964";
+}
+.glyphsuser-32-line:before {
+  content: "\e965";
+}
+.glyphsuser-24-duotone .path1:before {
+  content: "\e966";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsuser-24-duotone .path2:before {
+  content: "\e967";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsuser-24-fill:before {
+  content: "\e968";
+}
+.glyphsuser-24-regular:before {
+  content: "\e969";
+}
+.glyphsbookmark-simple-32-duotone .path1:before {
+  content: "\e96a";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsbookmark-simple-32-duotone .path2:before {
+  content: "\e96b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsbookmark-simple-32-fill:before {
+  content: "\e96c";
+}
+.glyphsbookmark-simple-32-line:before {
+  content: "\e96d";
+}
+.glyphsbookmarks-32-duotone .path1:before {
+  content: "\e96e";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsbookmarks-32-duotone .path2:before {
+  content: "\e96f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsbookmarks-32-fill:before {
+  content: "\e970";
+}
+.glyphsbookmarks-32-line:before {
+  content: "\e971";
+}
+.glyphscertificate-32-duotone .path1:before {
+  content: "\e972";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphscertificate-32-duotone .path2:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphscertificate-32-fill:before {
+  content: "\e974";
+}
+.glyphscertificate-32-line:before {
+  content: "\e975";
+}
+.glyphsvideo-32-duotone .path1:before {
+  content: "\e976";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsvideo-32-duotone .path2:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsvideo-32-fill:before {
+  content: "\e978";
+}
+.glyphsvideo-32-line:before {
+  content: "\e979";
+}
+.glyphsuser-circle-32-duotone .path1:before {
+  content: "\e97a";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsuser-circle-32-duotone .path2:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsuser-circle-32-fill:before {
+  content: "\e97c";
+}
+.glyphsuser-circle-32-line:before {
+  content: "\e97d";
+}
+.glyphsuser-circle-gear-32-duotone .path1:before {
+  content: "\e97e";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsuser-circle-gear-32-duotone .path2:before {
+  content: "\e97f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsuser-circle-gear-32-fill:before {
+  content: "\e980";
+}
+.glyphsuser-circle-gear-32-line:before {
+  content: "\e981";
+}
+.glyphsuser-circle-minus-32-duotone .path1:before {
+  content: "\e982";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsuser-circle-minus-32-duotone .path2:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsuser-circle-minus-32-fill:before {
+  content: "\e984";
+}
+.glyphsuser-circle-minus-32-line:before {
+  content: "\e985";
+}
+.glyphsuser-circle-plus-32-duotone .path1:before {
+  content: "\e986";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsuser-circle-plus-32-duotone .path2:before {
+  content: "\e987";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsuser-circle-plus-32-fill:before {
+  content: "\e988";
+}
+.glyphsuser-circle-plus-32-line:before {
+  content: "\e989";
+}
+.glyphsuser-switch-32-duotone .path1:before {
+  content: "\e98a";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsuser-switch-32-duotone .path2:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsuser-switch-32-fill:before {
+  content: "\e98c";
+}
+.glyphsuser-switch-32-line:before {
+  content: "\e98d";
+}
+.glyphsusers-32-duotone .path1:before {
+  content: "\e98e";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsusers-32-duotone .path2:before {
+  content: "\e98f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsusers-32-fill:before {
+  content: "\e990";
+}
+.glyphsusers-32-line:before {
+  content: "\e991";
+}
+.glyphsusers-three-32-duotone .path1:before {
+  content: "\e992";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsusers-three-32-duotone .path2:before {
+  content: "\e993";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsusers-three-32-fill:before {
+  content: "\e994";
+}
+.glyphsusers-three-32-line:before {
+  content: "\e995";
+}
+.glyphsshopping-cart-24-fill:before {
+  content: "\e996";
+}
+.glyphsshopping-cart-24-line:before {
+  content: "\e997";
+}
+.glyphsarrow-towards-mobile-variant-32-duotone .path1:before {
+  content: "\e998";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsarrow-towards-mobile-variant-32-duotone .path2:before {
+  content: "\e999";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsarrow-towards-mobile-variant-32-duotone .path3:before {
+  content: "\e99a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsarrow-towards-mobile-variant-32-line:before {
+  content: "\e99b";
+}
+.glyphsshopping-cart-32-duotone .path1:before {
+  content: "\e99c";
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.glyphsshopping-cart-32-duotone .path2:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.glyphsshopping-cart-32-fill:before {
+  content: "\e99e";
+}
+.glyphsshopping-cart-32-line:before {
+  content: "\e99f";
+}
+.glyphsground-24:before {
+  content: "\e9a0";
+}
+.glyphsnetwork-lines-24:before {
+  content: "\e9a1";
+}
+.glyphslan-24:before {
+  content: "\e9a2";
+}
+.glyphspicture-24-check:before {
+  content: "\e9a3";
+}
+.glyphspicture-24-plus:before {
+  content: "\e9a4";
+}
+.glyphsgps-pin-24-circle:before {
+  content: "\e9a5";
+}
+.glyphsgps-pin-24-simple:before {
+  content: "\e9a6";
+}
+.glyphscircle-sweep-24:before {
+  content: "\e9a7";
+}
+.glyphssun-24-line:before {
+  content: "\e9a8";
+}
+.glyphssun-24-fill:before {
+  content: "\e9a9";
+}
+.glyphsbell-slash-24:before {
+  content: "\e9aa";
+}
+.glyphsmap-pin-24:before {
+  content: "\e9ab";
+}
+.glyphscheckmark-24-simple:before {
+  content: "\e9ac";
+}
+.glyphscheckmark-24-circled:before {
+  content: "\e9ad";
+}
+.glyphstrash-bin-24-fill:before {
+  content: "\e9ae";
+}
+.glyphstrash-bin-24-line:before {
+  content: "\e9af";
+}
+.glyphsbox-pencil-24:before {
+  content: "\e9b0";
+}
+.glyphstags-24-single:before {
+  content: "\e9b1";
+}
+.glyphstags-24-multiple:before {
+  content: "\e9b2";
+}
+.glyphsdrag-and-drop-24:before {
+  content: "\e9b3";
+}
+.glyphsarrow-24-down:before {
+  content: "\e9b4";
+}
+.glyphsarrow-24-up:before {
+  content: "\e9b5";
+}
+.glyphsarrow-24-right:before {
+  content: "\e9b6";
+}
+.glyphsarrow-24-left:before {
+  content: "\e9b7";
+}
+.glyphslink-24:before {
+  content: "\e9b8";
+}
+.glyphsrename-24:before {
+  content: "\e9b9";
+}
+.glyphscloud-dash-24:before {
+  content: "\e9ba";
+}
+.glyphsexpand-24:before {
+  content: "\e9bb";
+}
+.glyphscamera-24:before {
+  content: "\e9bc";
+}
+.glyphspowersoft-logo-24:before {
+  content: "\e9bd";
+}
+.glyphshistory-24:before {
+  content: "\e9be";
+}
+.glyphsthree-dots-24-horizontal:before {
+  content: "\e9bf";
+}
+.glyphsthree-dots-24-vertical:before {
+  content: "\e9c0";
+}
+.glyphsbell-24:before {
+  content: "\e9c1";
+}
+.glyphsclose-circle-24-line:before {
+  content: "\e9c2";
+}
+.glyphsclose-circle-24-fill:before {
+  content: "\e9c3";
+}
+.glyphswarning-24-line:before {
+  content: "\e9c4";
+}
+.glyphswarning-24-fill:before {
+  content: "\e9c5";
+}
+.glyphscloud-download-24:before {
+  content: "\e9c6";
+}
+.glyphsgear-double-24:before {
+  content: "\e9c7";
+}
+.glyphssystem-theme-24:before {
+  content: "\e9c8";
+}
+.glyphsmoon-24:before {
+  content: "\e9c9";
+}
+.glyphsmute-24-yes:before {
+  content: "\e9ca";
+}
+.glyphsmute-24-no:before {
+  content: "\e9cb";
+}
+.glyphsinfo-24:before {
+  content: "\e9cc";
+}
+.glyphsbroom-24:before {
+  content: "\e9cd";
+}
+.glyphsquestion-mark-24:before {
+  content: "\e9ce";
+}
+.glyphschevrons-24-right:before {
+  content: "\e9cf";
+}
+.glyphschevrons-24-left:before {
+  content: "\e9d0";
+}
+.glyphschevrons-24-up:before {
+  content: "\e9d1";
+}
+.glyphschevrons-24-down:before {
+  content: "\e9d2";
+}
+.glyphsbox-arrow-up-24:before {
+  content: "\e9d3";
+}
+.glyphsbox-code-arrow-up-24:before {
+  content: "\e9d4";
+}
+.glyphseye-24-normal:before {
+  content: "\e9d5";
+}
+.glyphseye-24-slash:before {
+  content: "\e9d6";
+}
+.glyphsbox-code-arrow-down-24:before {
+  content: "\e9d7";
+}
+.glyphsbox-arrow-down-24:before {
+  content: "\e9d8";
+}
+.glyphsairplane-24:before {
+  content: "\e9d9";
+}
+.glyphscode-24:before {
+  content: "\e9da";
+}
+.glyphsgroup-24:before {
+  content: "\e9db";
+}
+.glyphsundo-24:before {
+  content: "\e9dc";
+}
+.glyphsemail-24:before {
+  content: "\e9dd";
+}
+.glyphsadd-24:before {
+  content: "\e9de";
+}
+.glyphsclose-24:before {
+  content: "\e9df";
+}
+.glyphsfunnel-24:before {
+  content: "\e9e0";
+}
+.glyphschevron-24-right-fill:before {
+  content: "\e9e1";
+}
+.glyphschevron-24-left-fill:before {
+  content: "\e9e2";
+}
+.glyphschevron-24-up-fill:before {
+  content: "\e9e3";
+}
+.glyphschevron-24-down-fill:before {
+  content: "\e9e4";
+}
+.glyphschevron-24-right-line:before {
+  content: "\e9e5";
+}
+.glyphschevron-24-left-line:before {
+  content: "\e9e6";
+}
+.glyphschevron-24-up-line:before {
+  content: "\e9e7";
+}
+.glyphschevron-24-down-line:before {
+  content: "\e9e8";
+}
+.glyphsmagnifying-glass-24:before {
+  content: "\e9e9";
+}
+.glyphslist-24:before {
+  content: "\e9ea";
+}
+.glyphsrj45-24:before {
+  content: "\e9eb";
+}
+.glyphsplaceholder-24:before {
+  content: "\e9ec";
+}
+.glyphssort-24:before {
+  content: "\e9ed";
+}
+.glyphsquadrants-24:before {
+  content: "\e9ee";
+}
