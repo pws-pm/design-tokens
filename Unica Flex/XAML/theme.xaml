@@ -157,53 +157,6 @@
   <x:Double x:Key="spacing.fds-s-sm">12</x:Double>
   <x:Double x:Key="spacing.fds-s-xl">24</x:Double>
   <x:Double x:Key="spacing.fds-s-xs">8</x:Double>
-  <x:Double x:Key="typography.fds-t-body-lg-regular-font-size">18</x:Double>
-  <x:Double x:Key="typography.fds-t-body-lg-regular-font-weight">400</x:Double>
-  <x:Double x:Key="typography.fds-t-body-lg-regular-line-height">24</x:Double>
-  <x:Double x:Key="typography.fds-t-body-lg-semibold-font-size">18</x:Double>
-  <x:Double x:Key="typography.fds-t-body-lg-semibold-font-weight">600</x:Double>
-  <x:Double x:Key="typography.fds-t-body-lg-semibold-line-height">24</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-caps-regular-font-size">16</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-caps-regular-font-weight">400</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-caps-regular-line-height">22</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-caps-semibold-font-size">16</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-caps-semibold-font-weight">600</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-caps-semibold-line-height">24</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-regular-font-size">16</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-regular-font-weight">400</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-regular-line-height">22</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-semibold-font-size">16</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-semibold-font-weight">600</x:Double>
-  <x:Double x:Key="typography.fds-t-body-md-semibold-line-height">22</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h1-semibold-font-size">40</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h1-semibold-font-weight">600</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h1-semibold-line-height">40</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h2-regular-font-size">32</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h2-regular-font-weight">400</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h2-regular-line-height">40</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h2-semibold-font-size">32</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h2-semibold-font-weight">600</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h2-semibold-line-height">40</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h3-semibold-font-size">24</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h3-semibold-font-weight">600</x:Double>
-  <x:Double x:Key="typography.fds-t-title-h3-semibold-line-height">32</x:Double>
-  <x:Double x:Key="typographybase.lineheight.400-20">20</x:Double>
-  <x:Double x:Key="typographybase.lineheight.450-22">22</x:Double>
-  <x:Double x:Key="typographybase.lineheight.500-24">24</x:Double>
-  <x:Double x:Key="typographybase.lineheight.700-32">32</x:Double>
-  <x:Double x:Key="typographybase.lineheight.900-40">40</x:Double>
-  <x:Double x:Key="typographybase.size.225-13">13</x:Double>
-  <x:Double x:Key="typographybase.size.250-14">14</x:Double>
-  <x:Double x:Key="typographybase.size.300-16">16</x:Double>
-  <x:Double x:Key="typographybase.size.350-18">18</x:Double>
-  <x:Double x:Key="typographybase.size.400-20">20</x:Double>
-  <x:Double x:Key="typographybase.size.450-22">22</x:Double>
-  <x:Double x:Key="typographybase.size.500-24">24</x:Double>
-  <x:Double x:Key="typographybase.size.550-26">26</x:Double>
-  <x:Double x:Key="typographybase.size.700-32">32</x:Double>
-  <x:Double x:Key="typographybase.size.900-40">40</x:Double>
-  <x:Double x:Key="typographybase.weight.lg-600">600</x:Double>
-  <x:Double x:Key="typographybase.weight.md-400">400</x:Double>
   <x:Double x:Key="width.fds-w-lg">2</x:Double>
   <x:Double x:Key="width.fds-w-md">1</x:Double>
   <x:Double x:Key="width.fds-w-sm">0.5</x:Double>
@@ -470,10 +423,6 @@
 <Setter Property="TextDecorations" Value="None" />
 <Setter Property="TextTransform" Value="None" />
 </Style>
-
-
-
-  <!-- STRING Tokens -->
 
 
 </ResourceDictionary>
