@@ -2,90 +2,90 @@
                       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
   <!-- COLOR Tokens -->
-  <Color x:Key="color.gradient.fds-c-gradient-bluepurple-0">#77acec</Color>
-  <Color x:Key="color.gradient.fds-c-gradient-bluepurple-1">#cfc1fd</Color>
-  <Color x:Key="color.palette.fds-c-palette-base">#2e2f33</Color>
-  <Color x:Key="color.palette.fds-c-palette-blue">#b7d9f4</Color>
-  <Color x:Key="color.palette.fds-c-palette-cyan">#abdddf</Color>
-  <Color x:Key="color.palette.fds-c-palette-green">#d1d9a2</Color>
-  <Color x:Key="color.palette.fds-c-palette-indigo">#bec3f6</Color>
-  <Color x:Key="color.palette.fds-c-palette-lime">#b4dec1</Color>
-  <Color x:Key="color.palette.fds-c-palette-orange">#f7b8a1</Color>
-  <Color x:Key="color.palette.fds-c-palette-red">#f9b4c8</Color>
-  <Color x:Key="color.palette.fds-c-palette-violet">#dfbaea</Color>
-  <Color x:Key="color.palette.fds-c-palette-yellow">#f3cf97</Color>
-  <Color x:Key="color.semantic.fds-c-accent-surface">#886ef3</Color>
-  <Color x:Key="color.semantic.fds-c-accent-surface-disabled">#596246c9</Color>
-  <Color x:Key="color.semantic.fds-c-accent-surface-hover">#a38dff</Color>
-  <Color x:Key="color.semantic.fds-c-accent-surface-low">#336246c9</Color>
-  <Color x:Key="color.semantic.fds-c-accent-surface-low-hover">#596246c9</Color>
-  <Color x:Key="color.semantic.fds-c-accent-surface-pressed">#beaeff</Color>
-  <Color x:Key="color.semantic.fds-c-accent-texticon-onaccent">#111111</Color>
-  <Color x:Key="color.semantic.fds-c-accent-texticon-onneutral">#a38dff</Color>
-  <Color x:Key="color.semantic.fds-c-negative-stroke">#de5b5d</Color>
-  <Color x:Key="color.semantic.fds-c-negative-surface">#de5b5d</Color>
-  <Color x:Key="color.semantic.fds-c-negative-surface-disabled">#4dde5b5d</Color>
-  <Color x:Key="color.semantic.fds-c-negative-surface-hover">#ff746c</Color>
-  <Color x:Key="color.semantic.fds-c-negative-surface-low">#21de5b5d</Color>
-  <Color x:Key="color.semantic.fds-c-negative-surface-low-hover">#4dde5b5d</Color>
-  <Color x:Key="color.semantic.fds-c-negative-surface-pressed">#ff9a97</Color>
-  <Color x:Key="color.semantic.fds-c-negative-texticon-onnegative">#111111</Color>
-  <Color x:Key="color.semantic.fds-c-negative-texticon-onneutral">#ff746c</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-background-high">#242529</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-background-low">#161719</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-background-medium">#1b1d21</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-background-minimum">#131314</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-background-modaloverlay">#99000000</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-stroke-disabled">#05ffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-stroke-low">#0affffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-stroke-medium">#26ffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-darken">#1a000000</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-high">#2e2f33</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-high-disabled">#1a000000</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-high-hover">#3d3e42</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-inverted">#ffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-lighten">#0affffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-lighten-hover">#1affffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-none-hover">#0dffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-none-pressed">#1affffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-shift-disabled">#0affffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-shift-low">#0dffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-shift-low-hover">#1affffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-shift-low-pressed">#26ffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-shift-medium">#26ffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-surface-shift-medium-hover">#33ffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-texticon-onneutral-1spot">#6effffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-texticon-onneutral-2headline">#8fffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-texticon-onneutral-3content">#adffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-texticon-onneutral-4body">#ccffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-texticon-onneutral-5fluent">#e6ffffff</Color>
-  <Color x:Key="color.semantic.fds-c-neutral-texticon-onneutral-inverted">#111111</Color>
-  <Color x:Key="color.semantic.fds-c-positive-surface">#379d63</Color>
-  <Color x:Key="color.semantic.fds-c-positive-surface-hover">#54b87b</Color>
-  <Color x:Key="color.semantic.fds-c-positive-surface-low">#26379d63</Color>
-  <Color x:Key="color.semantic.fds-c-positive-surface-low-hover">#4d379d63</Color>
-  <Color x:Key="color.semantic.fds-c-positive-surface-pressed">#75d591</Color>
-  <Color x:Key="color.semantic.fds-c-positive-texticon-onneutral">#54b87b</Color>
-  <Color x:Key="color.semantic.fds-c-positive-texticon-onpositive">#111111</Color>
-  <Color x:Key="color.semantic.fds-c-primary-stroke">#2384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-stroke-focus">#4d2384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-stroke-hover">#4198e3</Color>
-  <Color x:Key="color.semantic.fds-c-primary-surface">#2384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-surface-disabled">#4d2384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-surface-hover">#4198e3</Color>
-  <Color x:Key="color.semantic.fds-c-primary-surface-low">#262384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-surface-low-hover">#4d2384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-surface-low-pressed">#732384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-surface-pressed">#72b3f3</Color>
-  <Color x:Key="color.semantic.fds-c-primary-texticon-onneutral">#72b3f3</Color>
-  <Color x:Key="color.semantic.fds-c-primary-texticon-onneutral-disabled">#732384cd</Color>
-  <Color x:Key="color.semantic.fds-c-primary-texticon-onprimary">#111111</Color>
-  <Color x:Key="color.semantic.fds-c-warning-surface">#f3be62</Color>
-  <Color x:Key="color.semantic.fds-c-warning-surface-hover">#ffd694</Color>
-  <Color x:Key="color.semantic.fds-c-warning-surface-low">#26be8600</Color>
-  <Color x:Key="color.semantic.fds-c-warning-surface-low-hover">#4dbe8600</Color>
-  <Color x:Key="color.semantic.fds-c-warning-texticon-onneutral">#f3be62</Color>
-  <Color x:Key="color.semantic.fds-c-warning-texticon-onwarning">#111111</Color>
+  <Color x:Key="color.fds-c-accent-surface">#886ef3</Color>
+  <Color x:Key="color.fds-c-accent-surface-disabled">#596246c9</Color>
+  <Color x:Key="color.fds-c-accent-surface-hover">#a38dff</Color>
+  <Color x:Key="color.fds-c-accent-surface-low">#336246c9</Color>
+  <Color x:Key="color.fds-c-accent-surface-low-hover">#596246c9</Color>
+  <Color x:Key="color.fds-c-accent-surface-pressed">#beaeff</Color>
+  <Color x:Key="color.fds-c-accent-texticon-onaccent">#111111</Color>
+  <Color x:Key="color.fds-c-accent-texticon-onneutral">#a38dff</Color>
+  <Color x:Key="color.fds-c-gradient-bluepurple-0">#77acec</Color>
+  <Color x:Key="color.fds-c-gradient-bluepurple-1">#cfc1fd</Color>
+  <Color x:Key="color.fds-c-negative-stroke">#de5b5d</Color>
+  <Color x:Key="color.fds-c-negative-surface">#de5b5d</Color>
+  <Color x:Key="color.fds-c-negative-surface-disabled">#4dde5b5d</Color>
+  <Color x:Key="color.fds-c-negative-surface-hover">#ff746c</Color>
+  <Color x:Key="color.fds-c-negative-surface-low">#21de5b5d</Color>
+  <Color x:Key="color.fds-c-negative-surface-low-hover">#4dde5b5d</Color>
+  <Color x:Key="color.fds-c-negative-surface-pressed">#ff9a97</Color>
+  <Color x:Key="color.fds-c-negative-texticon-onnegative">#111111</Color>
+  <Color x:Key="color.fds-c-negative-texticon-onneutral">#ff746c</Color>
+  <Color x:Key="color.fds-c-neutral-background-high">#242529</Color>
+  <Color x:Key="color.fds-c-neutral-background-low">#161719</Color>
+  <Color x:Key="color.fds-c-neutral-background-medium">#1b1d21</Color>
+  <Color x:Key="color.fds-c-neutral-background-minimum">#131314</Color>
+  <Color x:Key="color.fds-c-neutral-background-modaloverlay">#99000000</Color>
+  <Color x:Key="color.fds-c-neutral-stroke-disabled">#05ffffff</Color>
+  <Color x:Key="color.fds-c-neutral-stroke-low">#0affffff</Color>
+  <Color x:Key="color.fds-c-neutral-stroke-medium">#26ffffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-darken">#1a000000</Color>
+  <Color x:Key="color.fds-c-neutral-surface-high">#2e2f33</Color>
+  <Color x:Key="color.fds-c-neutral-surface-high-disabled">#1a000000</Color>
+  <Color x:Key="color.fds-c-neutral-surface-high-hover">#3d3e42</Color>
+  <Color x:Key="color.fds-c-neutral-surface-inverted">#ffffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-lighten">#0affffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-lighten-hover">#1affffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-none-hover">#0dffffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-none-pressed">#1affffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-shift-disabled">#0affffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-shift-low">#0dffffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-shift-low-hover">#1affffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-shift-low-pressed">#26ffffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-shift-medium">#26ffffff</Color>
+  <Color x:Key="color.fds-c-neutral-surface-shift-medium-hover">#33ffffff</Color>
+  <Color x:Key="color.fds-c-neutral-texticon-onneutral-1spot">#6effffff</Color>
+  <Color x:Key="color.fds-c-neutral-texticon-onneutral-2headline">#8fffffff</Color>
+  <Color x:Key="color.fds-c-neutral-texticon-onneutral-3content">#adffffff</Color>
+  <Color x:Key="color.fds-c-neutral-texticon-onneutral-4body">#ccffffff</Color>
+  <Color x:Key="color.fds-c-neutral-texticon-onneutral-5fluent">#e6ffffff</Color>
+  <Color x:Key="color.fds-c-neutral-texticon-onneutral-inverted">#111111</Color>
+  <Color x:Key="color.fds-c-palette-base">#2e2f33</Color>
+  <Color x:Key="color.fds-c-palette-blue">#b7d9f4</Color>
+  <Color x:Key="color.fds-c-palette-cyan">#abdddf</Color>
+  <Color x:Key="color.fds-c-palette-green">#d1d9a2</Color>
+  <Color x:Key="color.fds-c-palette-indigo">#bec3f6</Color>
+  <Color x:Key="color.fds-c-palette-lime">#b4dec1</Color>
+  <Color x:Key="color.fds-c-palette-orange">#f7b8a1</Color>
+  <Color x:Key="color.fds-c-palette-red">#f9b4c8</Color>
+  <Color x:Key="color.fds-c-palette-violet">#dfbaea</Color>
+  <Color x:Key="color.fds-c-palette-yellow">#f3cf97</Color>
+  <Color x:Key="color.fds-c-positive-surface">#379d63</Color>
+  <Color x:Key="color.fds-c-positive-surface-hover">#54b87b</Color>
+  <Color x:Key="color.fds-c-positive-surface-low">#26379d63</Color>
+  <Color x:Key="color.fds-c-positive-surface-low-hover">#4d379d63</Color>
+  <Color x:Key="color.fds-c-positive-surface-pressed">#75d591</Color>
+  <Color x:Key="color.fds-c-positive-texticon-onneutral">#54b87b</Color>
+  <Color x:Key="color.fds-c-positive-texticon-onpositive">#111111</Color>
+  <Color x:Key="color.fds-c-primary-stroke">#2384cd</Color>
+  <Color x:Key="color.fds-c-primary-stroke-focus">#4d2384cd</Color>
+  <Color x:Key="color.fds-c-primary-stroke-hover">#4198e3</Color>
+  <Color x:Key="color.fds-c-primary-surface">#2384cd</Color>
+  <Color x:Key="color.fds-c-primary-surface-disabled">#4d2384cd</Color>
+  <Color x:Key="color.fds-c-primary-surface-hover">#4198e3</Color>
+  <Color x:Key="color.fds-c-primary-surface-low">#262384cd</Color>
+  <Color x:Key="color.fds-c-primary-surface-low-hover">#4d2384cd</Color>
+  <Color x:Key="color.fds-c-primary-surface-low-pressed">#732384cd</Color>
+  <Color x:Key="color.fds-c-primary-surface-pressed">#72b3f3</Color>
+  <Color x:Key="color.fds-c-primary-texticon-onneutral">#72b3f3</Color>
+  <Color x:Key="color.fds-c-primary-texticon-onneutral-disabled">#732384cd</Color>
+  <Color x:Key="color.fds-c-primary-texticon-onprimary">#111111</Color>
+  <Color x:Key="color.fds-c-warning-surface">#f3be62</Color>
+  <Color x:Key="color.fds-c-warning-surface-hover">#ffd694</Color>
+  <Color x:Key="color.fds-c-warning-surface-low">#26be8600</Color>
+  <Color x:Key="color.fds-c-warning-surface-low-hover">#4dbe8600</Color>
+  <Color x:Key="color.fds-c-warning-texticon-onneutral">#f3be62</Color>
+  <Color x:Key="color.fds-c-warning-texticon-onwarning">#111111</Color>
 
 
   <!-- SHADOW Tokens -->
@@ -215,16 +215,6 @@
 </Style>
 
 
-<Style x:Key="Typography.body.md-regular-underline" TargetType="Label">
-<Setter Property="FontFamily" Value="InterRegular" />
-<Setter Property="FontSize" Value="16" />
-<Setter Property="LineHeight" Value="1.375" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="Underline" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
 <Style x:Key="Typography.body.md-semibold" TargetType="Label">
 <Setter Property="FontFamily" Value="InterSemiBold" />
 <Setter Property="FontSize" Value="16" />
@@ -241,16 +231,6 @@
 <Setter Property="LineHeight" Value="1.250" />
 <Setter Property="CharacterSpacing" Value="0" />
 <Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.body.sm-regular-underline" TargetType="Label">
-<Setter Property="FontFamily" Value="InterRegular" />
-<Setter Property="FontSize" Value="14" />
-<Setter Property="LineHeight" Value="1.250" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="Underline" />
 <Setter Property="TextTransform" Value="None" />
 </Style>
 
@@ -305,50 +285,10 @@
 </Style>
 
 
-<Style x:Key="Typography.title.dsk-h1-semibold" TargetType="Label">
-<Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="40" />
-<Setter Property="LineHeight" Value="2.500" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.title.dsk-h2-regular" TargetType="Label">
-<Setter Property="FontFamily" Value="InterRegular" />
-<Setter Property="FontSize" Value="32" />
-<Setter Property="LineHeight" Value="2.500" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.title.dsk-h2-semibold" TargetType="Label">
-<Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="32" />
-<Setter Property="LineHeight" Value="2.500" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.title.dsk-h3-semibold" TargetType="Label">
-<Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="24" />
-<Setter Property="LineHeight" Value="2.000" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
 <Style x:Key="Typography.title.h1-semibold" TargetType="Label">
 <Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="40" />
-<Setter Property="LineHeight" Value="2.500" />
+<Setter Property="FontSize" Value="32" />
+<Setter Property="LineHeight" Value="2.000" />
 <Setter Property="CharacterSpacing" Value="0" />
 <Setter Property="TextDecorations" Value="None" />
 <Setter Property="TextTransform" Value="None" />
@@ -357,8 +297,8 @@
 
 <Style x:Key="Typography.title.h2-regular" TargetType="Label">
 <Setter Property="FontFamily" Value="InterRegular" />
-<Setter Property="FontSize" Value="32" />
-<Setter Property="LineHeight" Value="2.500" />
+<Setter Property="FontSize" Value="26" />
+<Setter Property="LineHeight" Value="2.000" />
 <Setter Property="CharacterSpacing" Value="0" />
 <Setter Property="TextDecorations" Value="None" />
 <Setter Property="TextTransform" Value="None" />
@@ -367,8 +307,8 @@
 
 <Style x:Key="Typography.title.h2-semibold" TargetType="Label">
 <Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="32" />
-<Setter Property="LineHeight" Value="2.500" />
+<Setter Property="FontSize" Value="26" />
+<Setter Property="LineHeight" Value="2.000" />
 <Setter Property="CharacterSpacing" Value="0" />
 <Setter Property="TextDecorations" Value="None" />
 <Setter Property="TextTransform" Value="None" />
@@ -377,52 +317,11 @@
 
 <Style x:Key="Typography.title.h3-semibold" TargetType="Label">
 <Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="24" />
-<Setter Property="LineHeight" Value="2.000" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.title.mbl-h1-semibold" TargetType="Label">
-<Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="32" />
-<Setter Property="LineHeight" Value="2.000" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.title.mbl-h2-regular" TargetType="Label">
-<Setter Property="FontFamily" Value="InterRegular" />
-<Setter Property="FontSize" Value="26" />
-<Setter Property="LineHeight" Value="2.000" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.title.mbl-h2-semibold" TargetType="Label">
-<Setter Property="FontFamily" Value="InterSemiBold" />
-<Setter Property="FontSize" Value="26" />
-<Setter Property="LineHeight" Value="2.000" />
-<Setter Property="CharacterSpacing" Value="0" />
-<Setter Property="TextDecorations" Value="None" />
-<Setter Property="TextTransform" Value="None" />
-</Style>
-
-
-<Style x:Key="Typography.title.mbl-h3-semibold" TargetType="Label">
-<Setter Property="FontFamily" Value="InterSemiBold" />
 <Setter Property="FontSize" Value="22" />
 <Setter Property="LineHeight" Value="2.000" />
 <Setter Property="CharacterSpacing" Value="0" />
 <Setter Property="TextDecorations" Value="None" />
 <Setter Property="TextTransform" Value="None" />
 </Style>
-
 
 </ResourceDictionary>
