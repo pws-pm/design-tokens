@@ -1,0 +1,14 @@
+:root {
+	--fds-s-fixed2: 2px;
+	--fds-s-none: 0px;
+	--fds-s-3xs: 2px;
+	--fds-s-2xs: 4px;
+	--fds-s-xs: 8px;
+	--fds-s-sm: 12px;
+	--fds-s-md: 16px;
+	--fds-s-lg: 20px;
+	--fds-s-xl: 24px;
+	--fds-s-2xl: 32px;
+	--fds-s-3xl: 48px;
+	--fds-s-4xl: 64px;
+}

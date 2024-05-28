@@ -1,0 +1,15 @@
+:root {
+	--fds-r-none: 0px;
+	--fds-r-xs: 2px;
+	--fds-r-s: 4px;
+	--fds-r-md2less: 6px;
+	--fds-r-md: 8px;
+	--fds-r-md2more: 10px;
+	--fds-r-md4more: 12px;
+	--fds-r-lg: 12px;
+	--fds-r-xl: 16px;
+	--fds-r-2xl: 20px;
+	--fds-r-3xl: 32px;
+	--fds-r-3xl2more: 34px;
+	--fds-r-max: 1000px;
+}
