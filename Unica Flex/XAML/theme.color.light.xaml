@@ -19,6 +19,7 @@
   <Color x:Key="color.fds-c-negative-surface-pressed">#6f0506</Color>
   <Color x:Key="color.fds-c-negative-texticon-onnegative">#ffffff</Color>
   <Color x:Key="color.fds-c-negative-texticon-onneutral">#ab0909</Color>
+  <Color x:Key="color.fds-c-neutral-background-glass-medium">#b3f8f8f9</Color>
   <Color x:Key="color.fds-c-neutral-background-high">#ffffff</Color>
   <Color x:Key="color.fds-c-neutral-background-low">#f3f3f4</Color>
   <Color x:Key="color.fds-c-neutral-background-medium">#f8f8f9</Color>
