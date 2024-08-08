@@ -1,0 +1,46 @@
+/* Custom Variables [theme='light'] */
+	--empty-state-background-image: url('/assets/images/empty-bg.jpg');
+	--skeleton-bg: #eee;
+    --skeleton-bg-gradient: linear-gradient(90deg, #ececec 8%, #f5f5f5 18%, #ececec 33%);
+	--fds-c-primary-surface-low-tip: #EDF4F9;
+	--fds-c-primary-surface-low-tip-odd: #E8EFF4;
+	--fds-c-neutral-surface-lighten-tip: #FDFDFD;
+	--fds-c-neutral-surface-darken-tip: #F8F8F8;
+	--fds-noresults-img: url('/assets/images/noresults-light.svg');
+	--fds-noresults-img-card-licenses: url('/assets/images/card-licenses-phone-lg.svg');
+	--fds-noresults-img-card-inventory: url('/assets/images/card-inventory-boxes-lg.svg');
+	--fds-noresults-img-card-activity: url('/assets/images/card-activity-tasks-lg.svg');
+	--fds-activity-log-license-prepared: url('/assets/images/icons-new/SVG/prepared-32-log.svg');
+	--fds-activity-log-license-unprepared: url('/assets/images/icons-new/SVG/unprepared-32-log.svg');
+	--fds-activity-log-license-activated: url('/assets/images/icons-new/SVG/activated-32-log-light.svg');
+	--fds-activity-log-order: url('/assets/images/icons-new/SVG/shopping-cart-32-log.svg');
+	--fds-activity-log-user: url('/assets/images/icons-new/SVG/user-circle-32-log-light.svg');
+	--fds-donut-border-color: #E2E2E2;
+	--fds-donut-fill-inside: #FDFDFD;
+	--fds-donut-fill-gradient-bg: #f0f0f0;
+	--fds-point-marker: url('/assets/images/icons-new/SVG/marker-light.svg');
+	--semantic-fds-c-neutral-texticon-onneutral-1spot: rgba(0, 0, 0, 0.25);
+
+
+
+	/* Custom Variables [dark], body.dark */
+	--empty-state-background-image: url('/assets/images/empty-bg-dark.jpg');
+	--skeleton-bg: #4F4F4F;
+    --skeleton-bg-gradient: linear-gradient(90deg, #4F4F4F 8%, #242529 18%, #4F4F4F 33%);
+	--fds-c-primary-surface-low-tip: #222F3C;
+	--fds-c-primary-surface-low-tip-odd: #1F2C39;
+	--fds-c-neutral-surface-lighten-tip: #1F2022;
+	--fds-c-neutral-surface-darken-tip: #1C1D1F;
+	--fds-noresults-img: url('/assets/images/noresults-dark.svg');
+	--fds-noresults-img-card-licenses: url('/assets/images/card-licenses-phone-dk.svg');
+	--fds-noresults-img-card-inventory: url('/assets/images/card-inventory-boxes-dk.svg');
+	--fds-noresults-img-card-activity: url('/assets/images/card-activity-tasks-dk.svg');
+	--fds-activity-log-license-prepared: url('/assets/images/icons-new/SVG/prepared-32-log.svg');
+	--fds-activity-log-license-unprepared: url('/assets/images/icons-new/SVG/unprepared-32-log.svg');
+	--fds-activity-log-license-activated: url('/assets/images/icons-new/SVG/activated-32-log-dark.svg');
+	--fds-activity-log-order: url('/assets/images/icons-new/SVG/shopping-cart-32-log.svg');
+	--fds-activity-log-user: url('/assets/images/icons-new/SVG/user-circle-32-log-dark.svg');
+	--fds-donut-fill-inside: #1F2022;
+	--fds-donut-fill-gradient-bg: #2A2B2D;
+	--fds-point-marker: url('/assets/images/icons-new/SVG/marker-dark.svg');
+	--semantic-fds-c-neutral-texticon-onneutral-1spot: rgba(255, 255, 255, 0.43);
