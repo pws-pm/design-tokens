@@ -1,19 +1,23 @@
 :root {
-	--fds-tb-weight-md: 400px;
-	--fds-tb-size-225: 13px;
+	--fds-tb-family-primary: ""Inter"";
 	--fds-tb-weight-lg: 600px;
-	--fds-tb-size-250: 14px;
+	--fds-tb-weight-md: 400px;
 	--fds-tb-size-300: 16px;
 	--fds-tb-size-350: 18px;
-	--fds-tb-lineheight-400: 20px;
-	--fds-tb-lineheight-450: 22px;
-	--fds-tb-lineheight-500: 24px;
-	--fds-tb-lineheight-700: 32px;
-	--fds-tb-lineheight-900: 40px;
+	--fds-tb-size-250: 14px;
+	--fds-tb-size-225: 13px;
 	--fds-tb-size-400: 20px;
 	--fds-tb-size-450: 22px;
 	--fds-tb-size-500: 24px;
 	--fds-tb-size-550: 26px;
 	--fds-tb-size-700: 32px;
 	--fds-tb-size-900: 40px;
+	--fds-tb-lineheight-400: 20px;
+	--fds-tb-lineheight-450: 22px;
+	--fds-tb-lineheight-500: 24px;
+	--fds-tb-lineheight-700: 32px;
+	--fds-tb-lineheight-900: 40px;
+	--fds-tb-lineheight-300: 16px;
+	--fds-tb-weight-xl: 700px;
+	--fds-tb-weight-ml: 500px;
 }
