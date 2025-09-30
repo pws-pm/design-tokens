@@ -55,6 +55,10 @@
 	--fds-t-body-xs-regular-font-weight: var(--fds-tb-weight-md)px;
 	--fds-t-body-xs-regular-font-size: var(--fds-tb-size-225)px;
 	--fds-t-body-xs-regular-line-height: var(--fds-tb-lineheight-300)px;
+	--fds-t-body-xs-medium-font-family: var(--fds-tb-family-primary);
+	--fds-t-body-xs-medium-font-weight: var(--fds-tb-weight-ml)px;
+	--fds-t-body-xs-medium-font-size: var(--fds-tb-size-225)px;
+	--fds-t-body-xs-medium-line-height: var(--fds-tb-lineheight-300)px;
 	--fds-t-link-lg-semibold-font-family: var(--fds-tb-family-primary);
 	--fds-t-link-lg-semibold-font-weight: var(--fds-tb-weight-lg)px;
 	--fds-t-link-lg-semibold-font-size: var(--fds-tb-size-350)px;
